@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="new_changed_text">This is some other text</string>
+    <string name="old_text">This text is going to change</string>
+    <string name="click_to_change_text">Change Text</string>
+    <string name="get_old_text">Get Old Text</string>
 </resources>
